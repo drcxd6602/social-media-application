@@ -1,0 +1,11 @@
+.homeOuter{
+  background-color: #eee;
+}
+
+.homeContainer{
+  display: flex;
+  width: 100%;
+  max-width: 1250px;
+  margin: auto;
+  background-color: white;
+}
