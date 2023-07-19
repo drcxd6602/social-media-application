@@ -1,5 +1,6 @@
 import "./topbar.css";
 import {Chat, Notifications, Person, Search} from '@mui/icons-material';
+import { Link } from "react-router-dom";
 
 const Topbar = () => {
   return (
@@ -15,7 +16,7 @@ const Topbar = () => {
       </div>
       <div className="topbarRight">
         <div className="topbarLinks">
-          <span className="topbarLink">Homepage</span>
+          <span className="topbarLink"><Link to='/' className="link">Home</Link></span>
           <span className="topbarLink">Timeline</span>
         </div>
         <div className="topbarIcons">
