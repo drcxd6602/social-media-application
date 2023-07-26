@@ -1,12 +1,17 @@
+@import url(https://fonts.googleapis.com/css?family=Inter:100,200,300,regular,500,600,700,800,900);
+@import url(https://fonts.googleapis.com/css?family=Outfit:100,200,300,regular,500,600,700,800,900);
+
 .rightbar{
   flex: 2.4;
   border-radius: 10px;
   box-shadow: 0px 3px 36px 0px rgba(0,0,0,0.1);
   background-color: white;
+  max-height: 200vh;
 }
 
 .rightbarWrapper{
   padding: 20px 20px 4px 20px;
+  
 
   >.birthdayContainer{
     display: flex;
@@ -82,6 +87,7 @@
 }
 
 .rightbarFollowingName{
+  font-family: 'Outfit',sans-serif;
   font-size: 14px;
 }
 
