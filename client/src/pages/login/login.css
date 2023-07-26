@@ -68,9 +68,18 @@
   cursor: pointer;
 }
 
+.loginButton:hover{
+  opacity: 0.8;
+}
+
 .loginForgot{
+  cursor: pointer;
   text-align: center;
   color: #1775ee;
+}
+
+.loginForgot:hover{
+  opacity: 0.8;
 }
 
 .loginRegisterButton{
@@ -84,4 +93,8 @@
   font-size: 20px;
   font-weight: 500;
   cursor: pointer;
+}
+
+.loginRegisterButton:hover{
+  opacity: 0.8;
 }

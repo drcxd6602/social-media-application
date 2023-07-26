@@ -29,7 +29,7 @@ const Rightbar = ({ profile }) => {
   const ProfileRightbar = () => {
     return (
       <>
-        <h4 className="rightbarTitle">User Information</h4>
+        <h4 className="rightbarTitle">My Information</h4>
         <div className="rightbarInfo">
           <div className="rightbarInfoItem">
             <span className="rightbarInfoKey">City : </span>
@@ -44,7 +44,7 @@ const Rightbar = ({ profile }) => {
             <span className="rightbarInfoValue">Single</span>
           </div>
         </div>
-        <h4 className="rightbarTitle">User Friends</h4>
+        <h4 className="rightbarTitle">My Friends</h4>
         <div className="rightbarFollowings">
           {Users.map((user) => (
             <div className="rightbarFollowing" key={user.id}>

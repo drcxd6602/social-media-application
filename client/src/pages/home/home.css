@@ -1,12 +1,13 @@
-.homeOuter {
-  background-color: #ddd;
+.homeOuter{
+  /* background: transparent; */
+  background-color: rgb(247, 247, 247);
 }
 
-.homeContainer {
+.homeContainer{
+  padding-top: 30px;
   display: flex;
   width: 100%;
-  max-width: 1140px;
+  max-width: 1161px;
   margin: auto;
-  /* background-color: white; */
-  gap: 20px;
+  
 }
