@@ -1,12 +1,18 @@
-.topbarInnerContainer{
-  height: 60px;
+.topbarContainer{
   width: 100%;
+  background:linear-gradient(to right, #5b6cf9 ,#ea98da);
+  
+}
+
+.topbarInnerContainer{
   /* background-color: #1877f2; */
+  max-width: 1161px;
+  margin: auto;
+  height: 60px;
   display: flex;
   align-items: center;
   position: sticky;
   top: 0;
-  background:linear-gradient(to right, #5b6cf9 ,#ea98da);
   z-index: 100;
 }
 
@@ -103,8 +109,8 @@
 }
 
 .topbarImg{
-  height: 32px;
-  width: 32px;
+  height: 42px;
+  width: 42px;
   border-radius: 50%;
   object-fit: cover;
   cursor: pointer;
