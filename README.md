@@ -1,15 +1,3 @@
-# social-media-application
-# Contributors 
-    - Sanket Gaikwad
-    - Darshan Chaudhari
-    - Kunal Hume
-    - Abhishek Tongale
-
-<a href="https://github.com/drcxd6602/social-media-application/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=drcxd6602/social-media-application" />
-</a>
-
-               
 # Full Stack Social Media Application (MERN Stack)
 
 ![Project Image](project-image-link)
@@ -84,3 +72,44 @@ Welcome to the Full Stack Social Media Application, a comprehensive social netwo
 - Express.js: A fast and minimalist web application framework for server-side development.
 - React.js: A JavaScript library for building user interfaces and the client-side of the application.
 - Node.js: A runtime environment for executing JavaScript code on the server-side.
+
+## Getting Started
+
+To get started with the Full Stack Social Media Application, follow these steps:
+
+1. Clone the repository: `git clone https://github.com/your-username/repository.git`
+2. Install dependencies for the server: `cd server && npm install`
+3. Install dependencies for the client: `cd client && npm install`
+4. Set up environment variables:
+   - Create a `.env` file in the server directory.
+   - Add the required environment variables such as database connection details and JWT secret.
+5. Start the server: `cd server && npm start`
+6. Start the client: `cd client && npm start`
+
+For more detailed instructions and development guidelines, refer to the [documentation](docs/README.md) provided in this repository.
+
+## Contributing
+
+Contributions are welcome! If you want to contribute to this project, please follow the [contributing guidelines](CONTRIBUTING.md) provided.
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
+
+## Acknowledgements
+
+- [Awesome Library](https://example.com) - Used for an awesome feature.
+- [Amazing Framework](https://example.com) - Used for an amazing functionality.
+
+We appreciate the contributions and support from the open-source community and various libraries that have made this project possible.
+
+Please refer to the [acknowledgements](ACKNOWLEDGEMENTS.md) for a list of individuals and resources that have been instrumental in the development of this application.
+# Contributors 
+    - Sanket Gaikwad
+    - Darshan Chaudhari
+    - Kunal Hume
+    - Abhishek Tongale
+
+<a href="https://github.com/drcxd6602/social-media-application/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=drcxd6602/social-media-application" />
+</a>
