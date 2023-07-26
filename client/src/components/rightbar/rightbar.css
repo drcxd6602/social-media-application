@@ -1,9 +1,12 @@
 .rightbar{
   flex: 2.4;
+  border-radius: 10px;
+  box-shadow: 0px 3px 36px 0px rgba(0,0,0,0.1);
+  background-color: white;
 }
 
 .rightbarWrapper{
-  padding: 20px 20px 0 0;
+  padding: 20px 20px 4px 20px;
 
   >.birthdayContainer{
     display: flex;

@@ -1,11 +1,13 @@
 .homeOuter{
-  background-color: #eee;
+  /* background: transparent; */
+  background-color: rgb(247, 247, 247);
 }
 
 .homeContainer{
+  padding-top: 30px;
   display: flex;
   width: 100%;
-  max-width: 1250px;
+  max-width: 1161px;
   margin: auto;
-  background-color: white;
+  
 }

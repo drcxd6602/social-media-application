@@ -1,9 +1,22 @@
-.profileOuter .profile{
+.profileOuter {
+  background-color: #eee;
+
+}
+
+.profile{  
   display: flex;
+  width: 100%;
+  max-width: 1250px;
+  margin: auto;
+  /* background-color: white; */
 }
 
 .profileRight{
   flex: 9;
+}
+
+.profileRightTop{
+  margin-bottom: 20px;
 }
 
 .profileRightBottom{
