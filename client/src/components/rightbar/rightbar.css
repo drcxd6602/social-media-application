@@ -3,7 +3,7 @@
 @import url(https://fonts.googleapis.com/css?family=Outfit:100,200,300,regular,500,600,700,800,900);
 
 .rightbar{
-  flex: 2.4;
+  flex: 3;
   border-radius: 10px;
   box-shadow: 0px 3px 36px 0px rgba(0,0,0,0.1);
   background-color: white;
