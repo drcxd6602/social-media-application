@@ -105,10 +105,10 @@ We appreciate the contributions and support from the open-source community and v
 
 Please refer to the [acknowledgements](ACKNOWLEDGEMENTS.md) for a list of individuals and resources that have been instrumental in the development of this application.
 # Contributors 
-    - Sanket Gaikwad
-    - Darshan Chaudhari
     - Kunal Hume
+    - Darshan Chaudhari
     - Abhishek Tongale
+    - Sanket Gaikwad
 
 <a href="https://github.com/drcxd6602/social-media-application/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=drcxd6602/social-media-application" />
